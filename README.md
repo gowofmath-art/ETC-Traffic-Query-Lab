@@ -222,6 +222,7 @@ ETC-Traffic-Query-Lab/
 ├── data/
 │   ├── raw/
 │   ├── sample/
+|   |── staging/
 │   └── metadata/
 │
 ├── src/
@@ -278,6 +279,10 @@ ETC-Traffic-Query-Lab/
 - 車種代碼
 - 資料格式說明
 - 對照表
+
+#### `data/staging/`
+
+暫時解壓縮區，處理完成後可以刪除。
 
 ---
 
